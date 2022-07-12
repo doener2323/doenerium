@@ -1,11 +1,16 @@
 <a id="top"></a>
+
 # 
 
 <h1 align="center">
 ⚔️ Doenerium 🛡️
 </h1>
 
-<img title="" src="file:///C:/Users/pando/Downloads/Doenerium1.png" alt="Doenerium2.png" data-align="center" width="328">
+<p align="center"> 
+  <kbd>
+<img src="https://github.com/PandoricGalaxy/doenerium-Updated/blob/doener/screenshots/5.png?raw=true" width="328"></img>
+  </kbd>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/github/last-commit/doener2323/doenerium?style=flat">
@@ -27,6 +32,8 @@
 - [⚠️ Note](#note)
 
 <a id="features"></a>
+
+---
 
 ### ⚔️ 〢 Features
 
@@ -65,12 +72,14 @@
 
 <a id="screenshot"></a>
 
+---
 ### 📸 〢 Screenshots
 
-<img title="" src="screenshots/2022-06-23-23-03-44-image.png" alt="" width="439"><img title="" src="screenshots/2022-06-23-23-06-28-image.png" alt="" width="439">![](screenshots/2022-06-23-23-08-28-image.png)
+<img title="" src="https://github.com/PandoricGalaxy/doenerium-Updated/blob/doener/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/PandoricGalaxy/doenerium-Updated/blob/doener/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/PandoricGalaxy/doenerium-Updated/blob/doener/screenshots/3.png?raw=true)
 
 <a id="setup"></a>
 
+---
 ### 📁 〢 Setting Up
 
 > Install [Node.js](https://nodejs.org/en/download/)
@@ -89,6 +98,7 @@
 
 <a id="todo"></a>
 
+---
 ### 📝〢 Todo
 
 > - ~~Exodus wallet injection (get the password whenever the user logs in the wallet)~~
@@ -100,12 +110,14 @@
 
 <a id="license"></a>
 
+---
 ### 📜 〢 License
 
 By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
 
 <a id="note"></a>
 
+---
 ### ⚠️〢 Note
 
 I am not responsible for any damages this software may cause. This was made for personal education
