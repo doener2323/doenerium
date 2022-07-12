@@ -88,7 +88,7 @@
 > 
 > Run ***install.bat*** file to install all necessary files
 > 
-> Replace "*WEBHOOK*" with your webhook in ***config.js*** and ***discord_desktop_core/index.js (line 116)***
+> Replace *WEBHOOK* with your webhook in ***config.js*** and ***discord_desktop_core/index.js (line 116)***
 > 
 > After ^, copy all the contents of ***discord_desktop_core/index.js*** and host it somewhere like GitHub or [this](https://www.klgrth.io) that i use to host.
 > 
